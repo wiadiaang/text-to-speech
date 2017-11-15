@@ -1,0 +1,16 @@
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\bin\Debug\text_to_speech.exe
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\bin\Debug\text_to_speech.pdb
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.Form1.resources
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.exe
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.pdb
+D:\CODE SAMPLE\Text to Speech Converter Sample - C%23 - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.exe
+D:\CODE SAMPLE\Text to Speech Converter Sample - C%23 - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.pdb
+D:\CODE SAMPLE\Text to Speech Converter Sample - C%23 - Visual Studio 2010\C#\text_to_speech\bin\Debug\text_to_speech.exe
+D:\CODE SAMPLE\Text to Speech Converter Sample - C%23 - Visual Studio 2010\C#\text_to_speech\bin\Debug\text_to_speech.pdb
+D:\CODE SAMPLE\Text to Speech Converter Sample - C%23 - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.Form1.resources
+D:\CODE SAMPLE\Text to Speech Converter Sample - C%23 - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.Properties.Resources.resources
+D:\CODE SAMPLE\Text to Speech Converter Sample - C%23 - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.csproj.GenerateResource.Cache
